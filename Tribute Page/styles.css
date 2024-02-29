@@ -1,0 +1,31 @@
+body{
+  
+  
+    background-color:EEE7DA;
+  }
+  
+  img{
+    display:block;
+  }
+  
+  #image{
+    max-width:100%;
+  
+  }
+  
+  h1,h3, p{
+    text-align:center;
+  }
+  
+  main{
+    background-color:EBE3D5;
+    padding:1px;
+  }
+  
+  section{
+  
+    padding:2px auto;
+  
+    margin:0 auto;
+  }
+  
